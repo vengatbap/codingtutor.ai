@@ -32,3 +32,8 @@
   ],
   "exclude": ["node_modules"]
 }
+//  "@/components/*": ["components/*"],
+//       "@/pages/*": ["pages/*"],
+//       "@/app/*": ["app/*"],
+//       "@/lib/*": ["lib/*"],
+//       "@/styles/*": ["styles/*"]

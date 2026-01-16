@@ -1,0 +1,1 @@
+ALTER TABLE "lessons" ADD COLUMN "course_id" text NOT NULL;
